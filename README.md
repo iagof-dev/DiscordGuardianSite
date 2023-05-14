@@ -1,6 +1,10 @@
-# 🛡️ DiscordGuardian
+# 🛡️ DiscordGuardian Website
 
 DiscordGuardian is a Minecraft plugin developed in Java and C#, inspired by FiveM servers. It provides an additional layer of security by requiring players to join a Discord server and send their nickname to gain access to the Minecraft server.
+
+
+Demo: [Video](https://www.youtube.com/watch?v=0wD__-MK6II)
+
 
 ## 🪛 Methods
 
